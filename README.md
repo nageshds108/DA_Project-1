@@ -7,7 +7,7 @@ This project demonstrates practical skills in **data analytics, Python-based ana
 
 ---
 
-## 🧩 Project Files Description
+##  Project Files Description
 
 ### EDA.ipynb (Exploratory Data Analysis)
 This notebook focuses on the initial exploration and understanding of the vendor dataset.
@@ -60,7 +60,7 @@ Dashboard highlights:
 
 ---
 
-## 🎯Key Outcomes
+## Key Outcomes
 - Improved understanding of vendor performance patterns
 - Identification of cost-efficient and high-performing vendors
 - Detection of potential risks and inefficiencies
